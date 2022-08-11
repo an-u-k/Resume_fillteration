@@ -1,0 +1,2 @@
+# Resume_fillteration
+Here in this system first collects the resumes in pdf format . The pdf are converted into text format and passed to the  model. Then a training model using NLP is created in which lexical ,syntactic and semantic analysis is done. Perform data  extraction to get the relevant data from the data set and then rank the resumes and calculate the score of each applicant.  Finally display the output to the recruiter
